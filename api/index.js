@@ -135,8 +135,3 @@ app.get('/post/:id',async (req,res)=>{
 app.listen(4000,function(){
     console.log('Port is listening');
 })
-
-// mongodb+srv://yashsharmaharsh:yashsharma29@cluster0.kh07rwv.mongodb.net/?retryWrites=true&w=majority
-
-// password of mongodb: yashsharma29
-// 4086 1654 2769
